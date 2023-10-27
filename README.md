@@ -1,5 +1,7 @@
 # Bug in `--import` order
 
+Was found in Node.js v20.9.0.
+
 1. Run the following command:
 
 ```sh
