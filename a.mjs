@@ -1,3 +1,3 @@
-import './sub.mjs'
+// import './sub.mjs'
 
 console.log('a...')
